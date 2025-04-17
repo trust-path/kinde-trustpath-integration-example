@@ -85,8 +85,8 @@ The workflow automatically denies access if [TrustPath.io](https://trustpath.io)
 
 ## Support
 
-- [Kinde Documentation](https://kinde.com/docs)
-- [TrustPath.io Documentation](https://trustpath.io/docs)
+- [Kinde Documentation](https://docs.kinde.com)
+- [TrustPath.io Documentation](https://docs.trustpath.io/)
 
 ## License
 
